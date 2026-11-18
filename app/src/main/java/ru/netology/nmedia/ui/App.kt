@@ -1,4 +1,3 @@
-///*
 package ru.netology.nmedia.ui
 
 import android.app.Application
@@ -11,4 +10,3 @@ class App : Application() {
         MapKitFactory.setApiKey(BuildConfig.MAPS_API_KEY)
     }
 }
-//*/

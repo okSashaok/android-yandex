@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">NMedia</string>
+    <string name="new_point">Новая точка</string>
+
+    <string name="name">Название</string>
+    <string name="description_of_the_place">Описание места...</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="enter_a_name">Введите название</string>
+    <string name="editing_a_point">Редактирование точки</string>
 </resources>
